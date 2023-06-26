@@ -6,7 +6,7 @@ import Search from './components/Search'
 function App() {
   return (
     <>
-      <div>
+      <div className='w-full h-full'>
         <Header />
         <Search />
       </div>
